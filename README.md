@@ -1,2 +1,2 @@
-Contians all the certificats from workshops, papers and any courses i have attended
+Contains all the certificats from workshops, papers and any courses i have attended
 
